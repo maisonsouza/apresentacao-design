@@ -39,6 +39,7 @@
  * A capa e a contracapa devem ser os ultimos slides.
  * Amarrar o fim com o ínicio da apresentação
  
+ ---
  
- * [Ceritificado](https://cursos.alura.com.br/certificate/maisongalvao/apresentacao-design).
+ * [Certificado](https://cursos.alura.com.br/certificate/maisongalvao/apresentacao-design).
  * [Certificado Formal](https://cursos.alura.com.br/user/maisongalvao/course/apresentacao-design/formalCertificate)
