@@ -12,10 +12,15 @@
 * Questionamentos em slides.
 
 ### A criação visual na prática
-* Utilizar Ícones e imagens sem fundo
-* Imagens com boa qualidade
-* Texto principal destacado
-* Podemos usar imagens saturadas e negritar o texto.
-* Utilizar fontes diferentes(Oswald)
+* Utilizar Ícones e imagens sem fundo.
+* Imagens com boa qualidade.
+* Texto principal destacado.
+* Utilizar imagens com flat Design(flaticon,iconfinder).
+* Podemos usar imagens saturadas e negritar o texto.(Formato da Imagem -> Cor)
+* Utilizar fontes diferentes(Oswald).
 * Agrupar imagens para fazer o alinhamento.
+* Tirar gordurinhas do texto.
+* Utilizar a mesmas fontes e o mesmo padrão visual.
+
+### Estratégias para chamar a atenção da audiência
 * 
