@@ -42,4 +42,4 @@
  ---
  
  * [Certificado](https://cursos.alura.com.br/certificate/maisongalvao/apresentacao-design).
- * [Certificado Formal](https://cursos.alura.com.br/user/maisongalvao/course/apresentacao-design/formalCertificate)
+ * [Certificado Formal](https://cursos.alura.com.br/user/maisongalvao/course/apresentacao-design/formalCertificate).
