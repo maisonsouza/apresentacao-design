@@ -1,5 +1,8 @@
+
 # Anotações do Curso de Design de Apresentação parte 1: Princípios e Técnicas Visuais
 ![](https://www.alura.com.br/assets/api/share/curso-apresentacao-design.png).
+
+## [Link do Curso](https://cursos.alura.com.br/course/apresentacao-design)
 
 ### O primeiro passo para uma boa apresentação.
 * Entender o assunto da apresentação.
