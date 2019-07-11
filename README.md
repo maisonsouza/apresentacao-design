@@ -21,6 +21,21 @@
 * Agrupar imagens para fazer o alinhamento.
 * Tirar gordurinhas do texto.
 * Utilizar a mesmas fontes e o mesmo padrão visual.
+* Testar possibilidades (mudar cores, mudar imagens e avaliar).
+* Utilizar imagens sem proteção ou direitors autorais.
+* Não deixar grandes espaços em branco, ocupar bem os slides.
 
 ### Estratégias para chamar a atenção da audiência
-* 
+* Destacar informações cruciais e relevantes
+* Não repetir o mesmo fundo para slides com idéias diferentes.
+* Utilizando formas
+
+###  Como potencializar o conteúdo através do visual?
+* Seja criativo, fuja do habitual.
+* Uma imagem vale mais do que mil palavras.
+
+ ### O gran finale: amarrando o fim e o início
+ * Reforçe o tema.
+ * A capa e a contracapa devem ser os ultimos slides.
+ * Amarrar o fim com o ínicio da apresentação.
+ * 
