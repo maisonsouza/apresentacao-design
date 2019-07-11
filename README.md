@@ -35,7 +35,6 @@
 * Uma imagem vale mais do que mil palavras.
 
  ### O gran finale: amarrando o fim e o início
- * Reforçe o tema.
+ * Reforçe o tema principal.
  * A capa e a contracapa devem ser os ultimos slides.
- * Amarrar o fim com o ínicio da apresentação.
- * 
+ * Amarrar o fim com o ínicio da apresentação
